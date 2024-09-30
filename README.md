@@ -4,19 +4,6 @@
 ## Overview
 This project performs customer segmentation for an automobile company by analyzing customer data such as annual income, spending behavior, profession, and demographics. The objective is to group customers into distinct segments for targeted marketing, utilizing machine learning algorithms to identify patterns and clusters in the data.
 
-## Table of Contents
-- [Project Structure](#project-structure)
-- [Dataset](#dataset)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Algorithms Used](#algorithms-used)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Clustering Methods](#clustering-methods)
-- [Evaluation](#evaluation)
-- [Visualizations](#visualizations)
-- [Conclusion](#conclusion)
-- [License](#license)
-
 ## Dataset
 The project uses a customer dataset with the following features:
 - `Gender`
